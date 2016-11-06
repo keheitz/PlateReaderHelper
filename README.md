@@ -35,7 +35,7 @@ The first value (37.00) is a temperature reading. The subsequent values in the f
 (same data as above, formatted to show each well-reading individually)
 
 ####stats_filename:
-Column1	Plate Read	Concentration	Compound	Avg Fluorescence	Standard Deviation	Avg Time
+	Plate Read	Concentration	Compound	Avg Fluorescence	Standard Deviation	Avg Time
 21	1	Control	Compound A	3489.0555	315.3135886	0.7426
 22	1	Control	Compound B	2934.19925	234.9185045	0.7428
 23	1	Control	Compound C	3627.465	121.0340918	0.74515
