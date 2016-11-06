@@ -18,7 +18,7 @@ Users can specify different numbers for well_groupings which map to compounds in
 The first value (37.00) is a temperature reading. The subsequent values in the first row are time readings. The second row contains corresponding fluorescence readings for each time. This is repeated for each row in the plate, with a break in between.
 
 ####readings_filename:
-| PlateRead | Concentration | Compound | Time       | Fluorescence |          |
+|           | PlateRead | Concentration | Compound | Time       | Fluorescence |    
 |-----------|---------------|----------|------------|--------------|----------|
 | 0         | 1             | Control  | Compound A | 0.7386       | 3689.802 |
 | 1         | 1             | Control  | Compound A | 0.74         | 3409.322 |
@@ -36,7 +36,7 @@ The first value (37.00) is a temperature reading. The subsequent values in the f
 (same data as above, formatted to show each well-reading individually)
 
 ####stats_filename:
-| Plate Read | Concentration | Compound | Avg Fluorescence | Standard Deviation | Avg Time    |         |
+|            | Plate Read | Concentration | Compound | Avg Fluorescence | Standard Deviation | Avg Time    |
 |------------|---------------|----------|------------------|--------------------|-------------|---------|
 | 21         | 1             | Control  | Compound A       | 3489.0555          | 315.3135886 | 0.7426  |
 | 22         | 1             | Control  | Compound B       | 2934.19925         | 234.9185045 | 0.7428  |
